@@ -1,4 +1,4 @@
-[![Imaage](https://raw.githubusercontent.com/JassyL/JassyL/master/maythe4thbewithu.png)](https://github.com/JassyL/JassyL)
+# MAY THE FORCE BE WITH YOU
 <!--
 **JassyL/JassyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
